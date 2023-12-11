@@ -116,6 +116,7 @@ main h2 {
     flex-direction: column;
     align-items: center;
     gap: .5em;
+    color: rgb(85, 104, 134);
 }
 
 .square {
